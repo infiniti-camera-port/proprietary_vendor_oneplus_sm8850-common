@@ -781,6 +781,8 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libtinyxml2_1 \
     libtrustedapploader \
+    libui-stock \
+    libutils-stock \
     libvideooptfeature \
     libvideotxr \
     libvideoutils \
@@ -951,6 +953,7 @@ PRODUCT_PACKAGES += \
     libpwirisfeature \
     libqcodec2_dolbydecoderfilter \
     libsensorbridge \
+    libsharebuffer_impl \
     libstc_color_feature \
     vendor.oplus.hardware.displaycolorfeature-V1-ndk \
     vendor.pixelworks.hardware.display@1.0 \
